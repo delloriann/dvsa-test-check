@@ -12,12 +12,12 @@
 // == Personal data
 $check_data = array (
   'person' => array (
-    'licence_number' => '',
-    'application_id' => '',
-    'latest_date'    => '', // Must be YYYY-MM-DD
-    'earliest_date'  => '', // Must be YYYY-MM-DD
-    'ideal_day'      => '', // Must be one of MON, TUE, WED, THU, FRI, SAT or SUN
-    'email_to'       => '',
+    'licence_number' => 'LEHON002196V99LH',
+    'application_id' => '56792816',
+    'latest_date'    => '2023-06-31', // Must be YYYY-MM-DD
+    'earliest_date'  => '2023-06-06', // Must be YYYY-MM-DD
+    'ideal_day'      => '2023-06-08', // Must be one of MON, TUE, WED, THU, FRI, SAT or SUN
+    'email_to'       => 'valentynlehoniak@gmail.com',
   )
 );
 
@@ -28,7 +28,7 @@ $proxy = array (
 );
 
 // == Email from address
-$email_from = "myscript@example.com";
+$email_from = "misterwolfgames@gmail.com";
 
 // == Script output directory
 $out_dir = ".";
