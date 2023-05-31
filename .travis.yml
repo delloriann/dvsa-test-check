@@ -11,4 +11,4 @@ dist: trusty
 script: ./run_tests.sh
 notifications:
   email:
-    - craig@cwatson.org
+    - valentynlehoniak@gmail.com
